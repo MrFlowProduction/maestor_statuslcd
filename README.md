@@ -39,4 +39,4 @@ Ez a projekt egy **2x16 karakteres LCD kijelzőn** jeleníti meg a **dátumot, i
 7. **Hibaelhárítás:**
    Napló/Log megnézése
    ```bash
-  journalctl -u lcd_display --no-pager --lines=50
+   journalctl -u lcd_display --no-pager --lines=50
