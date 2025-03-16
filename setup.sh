@@ -1,10 +1,3 @@
-
----
-
-### **🔧 `setup.sh` (Telepítés és automatikus indítás beállítása)**
-Ez a script **telepíti a szükséges csomagokat, konfigurálja az `RPLCD`-t és létrehoz egy `systemd` szolgáltatást**.
-
-```bash
 #!/bin/bash
 
 SERVICE_NAME="status_lcd"
